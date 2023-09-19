@@ -18,3 +18,4 @@ recept = {'flour' : 500, 'sugar' : 200, 'eggs' : 1}
 #     print (key, value)
 # for i in recept:
 #      print(i)
+#1
